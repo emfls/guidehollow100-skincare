@@ -6,7 +6,7 @@
   "description": "화장품 라벨·사용기한·보관·제품별 주의사항을 이해하는 생활 가이드입니다.",
   "accent": "#B37E86",
   "url": "https://skincare.guidehollow.com/",
-  "launchReady": false,
+  "launchReady": true,
   "adsReady": false,
   "pageTitle": "스킨케어·화장품 이용·관리 안내 | GuideHollow"
 }
