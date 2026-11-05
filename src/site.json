@@ -2,12 +2,13 @@
   "title": "GuideHollow",
   "slug": "skincare",
   "section": "스킨케어·화장품",
-  "hero": "화장품 성분과 사용 조건을 알고 선택하세요",
-  "description": "화장품 라벨·사용기한·보관·제품별 주의사항을 이해하는 생활 가이드입니다.",
+  "hero": "화장품 개봉 후 날짜 계산",
+  "description": "제품 라벨의 개봉 후 사용 개월 수를 직접 입력해 달력 날짜를 계산합니다.",
   "accent": "#B37E86",
   "url": "https://skincare.guidehollow.com/",
   "launchReady": true,
   "adsReady": false,
-  "pageTitle": "스킨케어·화장품 이용·관리 안내 | GuideHollow",
-  "coupangEnabled": true
+  "pageTitle": "화장품 개봉 후 날짜 계산 | GuideHollow",
+  "coupangEnabled": true,
+  "utilityEnabled": true
 }
